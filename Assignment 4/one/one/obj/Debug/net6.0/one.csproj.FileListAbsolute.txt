@@ -1,0 +1,15 @@
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\bin\Debug\net6.0\one.exe
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\bin\Debug\net6.0\one.deps.json
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\bin\Debug\net6.0\one.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\bin\Debug\net6.0\one.dll
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\bin\Debug\net6.0\one.pdb
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.dll
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\refint\one.dll
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.pdb
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\one.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 4\one\one\obj\Debug\net6.0\ref\one.dll

@@ -1,0 +1,15 @@
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\bin\Debug\net6.0\Five.exe
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\bin\Debug\net6.0\Five.deps.json
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\bin\Debug\net6.0\Five.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\bin\Debug\net6.0\Five.dll
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\bin\Debug\net6.0\Five.pdb
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.dll
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\refint\Five.dll
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.pdb
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\Five.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 4\Five\Five\obj\Debug\net6.0\ref\Five.dll
