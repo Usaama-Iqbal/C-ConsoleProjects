@@ -1,0 +1,30 @@
+C:\Users\usama\Desktop\Project\Threee\Threee\bin\Debug\net6.0\Threee.exe
+C:\Users\usama\Desktop\Project\Threee\Threee\bin\Debug\net6.0\Threee.deps.json
+C:\Users\usama\Desktop\Project\Threee\Threee\bin\Debug\net6.0\Threee.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Threee\Threee\bin\Debug\net6.0\Threee.dll
+C:\Users\usama\Desktop\Project\Threee\Threee\bin\Debug\net6.0\Threee.pdb
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.dll
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\refint\Threee.dll
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.pdb
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\Threee.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Threee\Threee\obj\Debug\net6.0\ref\Threee.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\bin\Debug\net6.0\Threee.exe
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\bin\Debug\net6.0\Threee.deps.json
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\bin\Debug\net6.0\Threee.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\bin\Debug\net6.0\Threee.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\bin\Debug\net6.0\Threee.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\refint\Threee.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\Threee.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Threee\Threee\obj\Debug\net6.0\ref\Threee.dll

@@ -1,0 +1,30 @@
+C:\Users\usama\Desktop\Project\Eight\Eight\bin\Debug\net6.0\Eight.exe
+C:\Users\usama\Desktop\Project\Eight\Eight\bin\Debug\net6.0\Eight.deps.json
+C:\Users\usama\Desktop\Project\Eight\Eight\bin\Debug\net6.0\Eight.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Eight\Eight\bin\Debug\net6.0\Eight.dll
+C:\Users\usama\Desktop\Project\Eight\Eight\bin\Debug\net6.0\Eight.pdb
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.dll
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\refint\Eight.dll
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.pdb
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\Eight.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Eight\Eight\obj\Debug\net6.0\ref\Eight.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\bin\Debug\net6.0\Eight.exe
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\bin\Debug\net6.0\Eight.deps.json
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\bin\Debug\net6.0\Eight.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\bin\Debug\net6.0\Eight.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\bin\Debug\net6.0\Eight.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\refint\Eight.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\Eight.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Eight\Eight\obj\Debug\net6.0\ref\Eight.dll

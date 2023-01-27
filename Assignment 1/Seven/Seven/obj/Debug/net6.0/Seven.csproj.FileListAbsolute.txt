@@ -1,0 +1,30 @@
+C:\Users\usama\Desktop\Project\Seven\Seven\bin\Debug\net6.0\Seven.exe
+C:\Users\usama\Desktop\Project\Seven\Seven\bin\Debug\net6.0\Seven.deps.json
+C:\Users\usama\Desktop\Project\Seven\Seven\bin\Debug\net6.0\Seven.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Seven\Seven\bin\Debug\net6.0\Seven.dll
+C:\Users\usama\Desktop\Project\Seven\Seven\bin\Debug\net6.0\Seven.pdb
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.dll
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\refint\Seven.dll
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.pdb
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\Seven.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Seven\Seven\obj\Debug\net6.0\ref\Seven.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\bin\Debug\net6.0\Seven.exe
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\bin\Debug\net6.0\Seven.deps.json
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\bin\Debug\net6.0\Seven.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\bin\Debug\net6.0\Seven.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\bin\Debug\net6.0\Seven.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\refint\Seven.dll
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.pdb
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\Seven.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 1\Seven\Seven\obj\Debug\net6.0\ref\Seven.dll
