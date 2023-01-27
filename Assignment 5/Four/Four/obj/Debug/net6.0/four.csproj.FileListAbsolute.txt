@@ -1,0 +1,15 @@
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\bin\Debug\net6.0\four.exe
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\bin\Debug\net6.0\four.deps.json
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\bin\Debug\net6.0\four.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\bin\Debug\net6.0\four.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\bin\Debug\net6.0\four.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\refint\four.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\four.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Four\four\obj\Debug\net6.0\ref\four.dll

@@ -1,0 +1,15 @@
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\bin\Debug\net6.0\Two.exe
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\bin\Debug\net6.0\Two.deps.json
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\bin\Debug\net6.0\Two.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\bin\Debug\net6.0\Two.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\bin\Debug\net6.0\Two.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\refint\Two.dll
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\Two.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 5\Two\Two\obj\Debug\net6.0\ref\Two.dll

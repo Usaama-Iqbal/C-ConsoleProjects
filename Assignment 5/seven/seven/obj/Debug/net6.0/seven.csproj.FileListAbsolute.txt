@@ -1,0 +1,15 @@
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\bin\Debug\net6.0\seven.exe
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\bin\Debug\net6.0\seven.deps.json
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\bin\Debug\net6.0\seven.runtimeconfig.json
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\bin\Debug\net6.0\seven.dll
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\bin\Debug\net6.0\seven.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.AssemblyInfo.cs
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.dll
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\refint\seven.dll
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.pdb
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\seven.genruntimeconfig.cache
+C:\Users\usama\Desktop\Project\Assignment 5\seven\seven\obj\Debug\net6.0\ref\seven.dll
